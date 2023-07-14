@@ -22,3 +22,5 @@ yarn-error.log*
 /.env
 /docusaurus.config.js
 /config.json
+
+echo ".env" >> .gitignore
