@@ -19,6 +19,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/.env
-/docusaurus.config.js
-/config.json
+*.env
+*docusaurus.config.js
+*config.json
