@@ -24,3 +24,4 @@ yarn-error.log*
 /config.json
 
 echo ".env" >> .gitignore
+echo ".docusaurus.config.js" >> .gitignore
