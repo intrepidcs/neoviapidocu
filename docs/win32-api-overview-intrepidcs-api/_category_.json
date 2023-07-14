@@ -1,0 +1,12 @@
+{
+    "label": "WIN32 API Overview",
+    "position": 3,
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "description": "WIN32 API Overview page",
+      "title": "WIN32 API Overview"
+    }
+  }
+  
